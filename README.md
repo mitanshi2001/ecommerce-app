@@ -31,7 +31,7 @@ Luxe eCommerce is a full-featured, modern, and highly responsive web application
 - **Checkout Flow:** A seamless checkout form for entering billing and shipping information, along with an order summary (Cash on Delivery format with no online payments required).
 
 ### Dummy Data (Testing)
-- Contains realistic AI-generated dummy data (e.g., Headphones, Smartwatches, Action Cameras, Leather Jackets) complete with corresponding AI-generated high-quality images.
+- Contains realistic dummy data (e.g., Headphones, Smartwatches, Action Cameras, Leather Jackets) complete with  high-quality images.
 - Seeded easily through Laravel's `DatabaseSeeder`.
 
 ---
